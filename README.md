@@ -62,7 +62,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 
-## 🧑‍🏫 My Udemy Courses
+## My Udemy Courses
 
 <table>
   <tr>
