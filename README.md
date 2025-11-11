@@ -64,16 +64,20 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## 🧑‍🏫 My Udemy Courses
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.udemy.com/course/learn-python-programming-with-chatgpt/" target="_blank">
+        <img src="img/python.webp" alt="Learn Python Programming with ChatGPT" width="260" /><br>
+        <b>Learn Python Programming with ChatGPT</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.udemy.com/course/linux-for-cloud-engineers-and-devops/" target="_blank">
+        <img src="img/linux.webp" alt="Linux for Cloud Engineers and DevOps" width="260" /><br>
+        <b>Linux for Cloud Engineers and DevOps</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.udemy.com/course/learn-python-programming-with-chatgpt/" target="_blank">
-  <img src="img/python.webp" alt="Learn Python Programming with ChatGPT" width="260" height="145" />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.udemy.com/course/linux-for-cloud-engineers-and-devops/" target="_blank">
-  <img src="img/linux.webp" alt="Linux for Cloud Engineers and DevOps" width="260" height="145" />
-</a>
-
-</div>
