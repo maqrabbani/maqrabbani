@@ -61,3 +61,19 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
+
+## 🧑‍🏫 My Udemy Courses
+
+<div align="center">
+
+<a href="https://www.udemy.com/course/learn-python-programming-with-chatgpt/" target="_blank">
+  <img src="img/python.webp" alt="Learn Python Programming with ChatGPT" width="260" height="145" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.udemy.com/course/linux-for-cloud-engineers-and-devops/" target="_blank">
+  <img src="img/linux.webp" alt="Linux for Cloud Engineers and DevOps" width="260" height="145" />
+</a>
+
+</div>
