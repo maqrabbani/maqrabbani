@@ -11,12 +11,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Projects |
 |-----------------------------------------------|----------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Detection Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Splunk Hunt Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Windows Event Log Lab</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Detection Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">PCAP Analysis Lab</a> |
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOC Automation Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOAR Playbook Lab</a> |
-| Incident Response Planning and Execution      | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOC Automation Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Blue Team IR Lab</a> |
-| Case Management with TheHive                  | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOC Automation Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">TheHive Integration Lab</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOC Automation Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Automation Scripts Lab</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Boss of the SOC</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">GetPDF</a> |
+| Network Traffic Monitoring & Attack Detection | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">PacketDetective</a> |
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOAR alert enrichment</a> |
+| Incident Response Planning & Execution        | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Amadey</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Rhysida</a> |
+| Case Management with TheHive                  | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOC case triage</a> |
+| Scripting & Automation for Threat Mitigation  | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Threat hunting automation</a> |
+
 
 
 ## Tools
