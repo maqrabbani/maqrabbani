@@ -9,14 +9,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill                                         | Associated Projects |
+|-----------------------------------------------|----------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Detection Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Splunk Hunt Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Windows Event Log Lab</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Detection Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">PCAP Analysis Lab</a> |
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOC Automation Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOAR Playbook Lab</a> |
+| Incident Response Planning and Execution      | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOC Automation Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Blue Team IR Lab</a> |
+| Case Management with TheHive                  | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOC Automation Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">TheHive Integration Lab</a> |
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">SOC Automation Lab</a>, <a href="https://github.com/maqrabbani/Detection-Lab/tree/main">Automation Scripts Lab</a> |
+
 
 ## Tools
 
