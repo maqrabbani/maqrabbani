@@ -8,6 +8,8 @@ Hi! I am a Cybersecurity enthusiast and Computer Science student passionate abou
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
+
+
 ## Data Analysis Skills
 
 | Skill                                     | Associated Projects                                                                                                                              |
@@ -19,6 +21,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SQL (Joins, Filtering, Aggregations)      | <a href="https://github.com/maqrabbani">Practice Datasets & Assignments</a>                                                                      |
 | Data Visualization (Matplotlib & Seaborn) | <a href="https://github.com/maqrabbani">Amazon People Analytics</a>                                                                              |
 | Data Pipeline                             |                                                                                                                                                  |
+
+
 
 
 
