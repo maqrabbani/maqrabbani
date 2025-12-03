@@ -14,12 +14,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                     | Associated Projects                                                                                                                              |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Python for Data Analysis                  | <a href="https://github.com/worldquant-university">WorldQuant Data Labs</a>, <a href="https://github.com/maqrabbani">Amazon People Analytics</a> |
-| Data Cleaning & Preprocessing             | <a href="https://extern.com">Extern.com Data Analysis Tasks</a>                                                                                  |
-| Exploratory Data Analysis (EDA)           | <a href="https://github.com/worldquant-university">WQU Analytics Projects</a>                                                                    |
-| Pandas & NumPy                            | <a href="https://github.com/worldquant-university">WorldQuant Deep Learning Fundamentals</a>                                                     |
-| SQL (Joins, Filtering, Aggregations)      | <a href="https://github.com/maqrabbani">Practice Datasets & Assignments</a>                                                                      |
-| Data Visualization (Matplotlib & Seaborn) | <a href="https://github.com/maqrabbani">Amazon People Analytics</a>                                                                              |
+| Python for Data Analysis                  | <a href="https://github.com/maqrabbani/worldquant">WorldQuant Data Labs</a>, <a href="https://github.com/maqrabbani/amazon-people-analytics">Amazon People Analytics</a> |
+| Data Cleaning & Preprocessing             | <a href="https://github.com/maqrabbani/amazon-people-analytics">Extern.com Data Analysis Tasks</a>                                                                                  |
+| Exploratory Data Analysis (EDA)           | <a href="https://github.com/maqrabbani/worldquant">WQU Analytics Projects</a>                                                                    |
+| Pandas & NumPy                            | <a href="https://github.com/maqrabbani/worldquant">WorldQuant Deep Learning Fundamentals</a>                                                     |
+| SQL (Joins, Filtering, Aggregations)      | <a href="https://github.com/maqrabbani/amazon-people-analytics">Practice Datasets & Assignments</a>                                                                      |
+| Data Visualization (Matplotlib & Seaborn) | <a href="https://github.com/maqrabbani/amazon-people-analytics">Amazon People Analytics</a>                                                                              |
 | Data Pipeline                             |                                                                                                                                                  |
 
 
