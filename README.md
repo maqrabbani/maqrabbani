@@ -20,8 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Pandas & NumPy                            | <a href="https://github.com/maqrabbani/worldquant">WorldQuant Deep Learning Fundamentals</a>                                                     |
 | SQL (Joins, Filtering, Aggregations)      | <a href="https://github.com/maqrabbani/amazon-people-analytics">Practice Datasets & Assignments</a>                                                                      |
 | Data Visualization (Matplotlib & Seaborn) | <a href="https://github.com/maqrabbani/amazon-people-analytics">Amazon People Analytics</a>                                                                              |
-| Data Pipeline                             |                                                                                                                                                  |
-
+| Data Pipeline                             | <a href="https://github.com/maqrabbani/applied-ai-lab/">Deep Leanring Lab</a>                                                                                                                                                
 
 
 
