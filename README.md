@@ -5,8 +5,7 @@ Hi! I am a Cybersecurity enthusiast and Computer Science student passionate abou
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+My journey in computer science has sparked a strong interest in data science and cybersecurity. I am now eager to explore opportunities in these fields, open to learning new things that are both engaging and have the potential to make a meaningful impact.
 
 
 
